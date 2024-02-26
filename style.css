@@ -7,3 +7,18 @@
 h1 {
   font-size: 12px;
 }
+
+.header {
+  height: 30px;
+  display: flex;
+}
+
+.logo1 {
+  width: 30%;
+  background-color: #ccc;
+}
+
+.menu {
+  width: 70%;
+  background-color: #afafaf;
+}
